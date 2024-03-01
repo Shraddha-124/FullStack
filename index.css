@@ -5,8 +5,11 @@
 }
 
 body {
-    background-color: black;
+    background-color:grey;
     color: white;
+}
+.bakwaas{
+    font-size: 25px;
 }
 
 nav {
@@ -25,6 +28,12 @@ nav {
 .logo {
     margin-left: 11px;
 }
+
+.text h1{
+    font-family: 'Courgette', cursive;
+}
+
+
 
 .logo h1 {
     border-bottom: 4px solid rgb(247, 2, 2);
